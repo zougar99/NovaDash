@@ -2,7 +2,7 @@
 
 A modern, beautiful desktop widget engine for Windows - a powerful alternative to Rainmeter.
 
-![NovaDash](https://img.shields.io/badge/version-1.0.0-blue) ![Electron](https://img.shields.io/badge/electron-28-green) ![Widgets](https://img.shields.io/badge/widgets-53-purple)
+![NovaDash](https://img.shields.io/badge/version-1.0.0-blue) ![Electron](https://img.shields.io/badge/electron-42-green) ![Widgets](https://img.shields.io/badge/widgets-53-purple)
 
 ## Features — 53 Widgets
 
@@ -94,7 +94,7 @@ npm start
 ## Tech Stack
 - **Electron** - Desktop application framework
 - **systeminformation** - System data collection
-- **electron-store** - Persistent settings storage
+- **JSON file store** - Persistent settings storage (replaces electron-store)
 
 ## Building
 
